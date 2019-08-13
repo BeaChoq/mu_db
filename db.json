@@ -1,60 +1,4 @@
 {
-"players": [
-{
-    "_id": "1",
-    "type": "user",
-    "firstname": "Damien",
-    "lastname": "Lee",
-    "userName": "dam.l",
-    "mail": "damien.l@jns.com",
-    "password": "damien",
-    "teams": ["5"]
-},
-{
-    "_id": "2",
-    "type": "user",
-    "firstname": "Roby",
-    "lastname": "Proust",
-    "userName": "rproust",
-    "mail": "roby.p@mni.it",
-    "password":"roby",
-    "teams": ["5"]
-},
-{
-    "_id": "3",
-    "type": "user",
-    "firstname": "Edu",
-    "lastname": "Dulac",
-    "userName": "edulac",
-    "mail": "edu.dulac@mdz.com",
-    "password":"edu",
-    "teams": ["6"]
-},
-{
-    "_id": "4",
-    "type": "user",
-    "firstname": "Béatrice",
-    "lastname": "Rul",
-    "userName": "b.rul",
-    "mail": "b.rul@mpa.com",
-    "password": "bea",
-    "teams": ["6"]
-},
-{
-    "_id": "5",
-    "type": "team",
-    "name": "TeamOne",
-    "mail": "team.one@ljc.com",
-    "players": ["1","2"]
-},
-{
-    "_id": "6",
-    "type": "team",
-    "name": "TeamTwo",
-    "mail": "team.two@scr.com",
-    "players": ["3","4"]
-}
-],
 "models": [
 {
     "_id": "1",
@@ -70,43 +14,31 @@
 "users": [
 {
     "_id": "1",
-    "type": "user",
     "firstname": "Damien",
     "lastname": "Lee",
     "userName": "dam.l",
     "mail": "damien.l@jns.com",
-    "password": "damien",
-    "teams": ["5"]
 },
 {
     "_id": "2",
-    "type": "user",
     "firstname": "Roby",
     "lastname": "Proust",
     "userName": "rproust",
     "mail": "roby.p@mni.it",
-    "password":"roby",
-    "teams": ["5"]
 },
 {
     "_id": "3",
-    "type": "user",
     "firstname": "Edu",
     "lastname": "Dulac",
     "userName": "edulac",
     "mail": "edu.dulac@mdz.com",
-    "password":"edu",
-    "teams": ["6"]
 },
 {
     "_id": "4",
-    "type": "user",
     "firstname": "Béatrice",
     "lastname": "Rul",
     "userName": "b.rul",
     "mail": "b.rul@mpa.com",
-    "password": "bea",
-    "teams": ["6"]
 }
 ],
 "teams": [
@@ -131,36 +63,28 @@
     "name": "GameOne",
     "idModel": "1",
     "descriptionGame": "",
-    "template": "Template1",
-    "startDate": "2019-10-01",
-    "endDate": "2019-11-01"
+    "template": "Template1"
 },
 {
     "_id": "2",
     "name": "GameTwo",
     "idModel": "1",
     "descriptionGame": "",
-    "template": "Template2",
-    "startDate": "2019-08-01",
-    "endDate": "2019-09-01"
+    "template": "Template2"
 },
 {
     "_id": "3",
     "name": "GameThree",
     "idModel": "2",
     "descriptionGame": "",
-    "template": "Template1",
-    "startDate": "2019-11-01",
-    "endDate": "2019-12-01"
+    "template": "Template1"
 },
 {
     "_id": "4",
     "name": "ProjVT2",
     "idModel": "2",
     "descriptionGame": "",
-    "template": "Template2",
-    "startDate": "2019-09-15",
-    "endDate": "2019-10-15"
+    "template": "Template2"
 }
 ],
 "sessions": [
@@ -169,8 +93,6 @@
     "idGame": "1",
     "name": "bologna maggio 2019",
     "descriptionSession": "Session MIT bologna, 40 players singoli",
-    "startDate": "2019-08-01",
-    "endDate": "2019-09-01",
     "properties": {
         "periods": 12,
         "gameMode": "single"
@@ -181,8 +103,6 @@
     "idGame": "1",
     "name": "bologna january 2020",
     "descriptionSession": "Session MIT bologna, 20 players singoli",
-    "startDate": "2012-01-01",
-    "endDate": "2020-01-15",
     "properties": {
         "periods": 7,
         "gameMode": "single"
@@ -193,8 +113,6 @@
     "idGame": "2",
     "name": "societa 123",
     "descriptionSession": "societa 123 teams",
-    "startDate": "2019-05-15",
-    "endDate": "2019-06-01",
     "properties": {
         "periods": 12,
         "gameMode": "team"
