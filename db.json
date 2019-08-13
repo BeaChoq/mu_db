@@ -7,7 +7,7 @@
     "lastname": "Lee",
     "userName": "dam.l",
     "mail": "damien.l@jns.com",
-    "password":"damien",
+    "password": "damien",
     "teams": ["5"]
 },
 {
@@ -17,7 +17,7 @@
     "lastname": "Proust",
     "userName": "rproust",
     "mail": "roby.p@mni.it",
-    "password" :"roby",
+    "password":"roby",
     "teams": ["5"]
 },
 {
@@ -27,7 +27,7 @@
     "lastname": "Dulac",
     "userName": "edulac",
     "mail": "edu.dulac@mdz.com",
-    "password" :"edu",
+    "password":"edu",
     "teams": ["6"]
 },
 {
@@ -37,7 +37,7 @@
     "lastname": "Rul",
     "userName": "b.rul",
     "mail": "b.rul@mpa.com",
-    "password" :"bea",
+    "password": "bea",
     "teams": ["6"]
 },
 {
@@ -84,7 +84,7 @@
     "descriptionGame": "",
     "template": "Template2",
     "startDate": "2019-08-01",
-    "endDate":"2019-09-01"
+    "endDate": "2019-09-01"
 },
 {
     "_id": "3",
@@ -146,16 +146,16 @@
 "playerSession": [
 {
     "playerSession": [
-        {"idPlayer":"1", 
+        {"idPlayer": "1", 
          "idSession": "1"
         },
-        {"idPlayer":"1", 
+        {"idPlayer": "1", 
          "idSession": "2"
         },
-        {"idPlayer":"5", 
+        {"idPlayer": "5", 
          "idSession": "3"
         },
-        {"idPlayer":"5", 
+        {"idPlayer": "5", 
          "idSession": "3"
         }
     ]
