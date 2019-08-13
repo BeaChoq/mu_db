@@ -17,28 +17,28 @@
     "firstname": "Damien",
     "lastname": "Lee",
     "userName": "dam.l",
-    "mail": "damien.l@jns.com",
+    "mail": "damien.l@jns.com"
 },
 {
     "_id": "2",
     "firstname": "Roby",
     "lastname": "Proust",
     "userName": "rproust",
-    "mail": "roby.p@mni.it",
+    "mail": "roby.p@mni.it"
 },
 {
     "_id": "3",
     "firstname": "Edu",
     "lastname": "Dulac",
     "userName": "edulac",
-    "mail": "edu.dulac@mdz.com",
+    "mail": "edu.dulac@mdz.com"
 },
 {
     "_id": "4",
     "firstname": "Béatrice",
     "lastname": "Rul",
     "userName": "b.rul",
-    "mail": "b.rul@mpa.com",
+    "mail": "b.rul@mpa.com"
 }
 ],
 "teams": [
