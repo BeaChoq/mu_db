@@ -143,9 +143,7 @@
     }
 }
 ],
-"playerSession": [
-{
-    "playerSession": [
+ "playerSession": [
         {"idPlayer": "1", 
          "idSession": "1"
         },
@@ -159,6 +157,4 @@
          "idSession": "3"
         }
     ]
-}
-]
 }
