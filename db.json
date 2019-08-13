@@ -73,7 +73,7 @@
     "name": "GameOne",
     "idModel": "1",
     "descriptionGame": "",
-    "template": "Template1"
+    "template": "Template1",
     "startDate": "2019-10-01",
     "endDate": "2019-11-01"
 },
