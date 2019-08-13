@@ -74,8 +74,8 @@
     "idModel": "1",
     "descriptionGame": "",
     "template": "Template1"
-    //"startDate" : ISODate("2019-10-01T00:00:00.000Z"),
-    //"endDate" :ISODate("2019-11-01T00:00:00.000Z")
+    "startDate" : ISODate("2019-10-01T00:00:00.000Z"),
+    "endDate" :ISODate("2019-11-01T00:00:00.000Z")
 },
 {
     "_id": "2",
